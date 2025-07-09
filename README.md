@@ -22,8 +22,7 @@ Since update v76 you cannot uninstall the social apps, if you do they reinstall 
 ADB must be enabled and the device must be connected using USB
 
 ## How to run
-You can download the bat file and run it directly if adb is configured on your pc already. Else download the Meta quest 3 debloater.exe from release and run that, it comes with adb and all necessary files prepackaged.
-
+You can download teh project as zip and run the .bat file
 ## Notes
 - Last tested on quest 3 update v78
 - Packaged using enigma virtual box
