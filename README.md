@@ -34,3 +34,4 @@ ADB must be enabled and the device must be connected using USB
 - Last tested on quest 3 update v78
 - Packaged using enigma virtual box
 - The first time you enable adb (developer setting on oculus phone app) you may have to confirm the prompt on the headset else the device won't connect
+- If you want your headset in the future, you can run ```adb shell pm enable com.oculus.updater``` from your terminal to enable updater. 
