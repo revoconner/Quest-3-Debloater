@@ -21,8 +21,15 @@ Since update v76 you cannot uninstall the social apps, if you do they reinstall 
 ## Prerequisite
 ADB must be enabled and the device must be connected using USB
 
-## How to run
-You can download teh project as zip and run the .bat file
+## How to run [For all users]
+- You can use <br/>
+  ```iex (iwr "https://raw.githubusercontent.com/revoconner/Quest-3-Debloater/main/q3debloater.ps1" -UseBasicParsing).Content``` <br/>
+  to run it from powershell
+- Search for CMD in your start menu
+- Once the terminal opens, type powershell
+- And then copy and paste the code
+## How to run [For advance users]
+- You can download the project as zip and run the .bat file
 ## Notes
 - Last tested on quest 3 update v78
 - Packaged using enigma virtual box
